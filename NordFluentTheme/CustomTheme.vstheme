@@ -10985,7 +10985,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="EnvironmentBadge">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="EnvironmentBorder">
         <Background Type="CT_RAW" Source="FF3B4252" />
