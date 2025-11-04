@@ -10875,16 +10875,16 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SolidBackgroundFillQuinary">
-        <Background Type="CT_RAW" Source="FF333333" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SolidBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="FF0D101B" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SolidBackgroundFillSenary">
-        <Background Type="CT_RAW" Source="FF03A7A3" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF0A1C3B" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -10893,7 +10893,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="SubtleFillTertiary">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="SubtleFillTransparent">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -10988,7 +10988,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="EnvironmentBorder">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="EnvironmentBorderInactive">
         <Background Type="CT_RAW" Source="FF454545" />
