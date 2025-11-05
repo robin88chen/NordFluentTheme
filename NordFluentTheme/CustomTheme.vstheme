@@ -4342,6 +4342,35 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
+    <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
+      <Color Name="PopupBackground">
+        <Background Type="CT_RAW" Source="FF2E3440" />
+      </Color>
+      <Color Name="PopupBorder">
+        <Background Type="CT_RAW" Source="FF434C5E" />
+      </Color>
+      <Color Name="PopupHyperlink">
+        <Background Type="CT_RAW" Source="FF81A1C1" />
+      </Color>
+      <Color Name="PopupLink">
+        <Background Type="CT_RAW" Source="FF81A1C1" />
+      </Color>
+      <Color Name="PopupSelectedBackground">
+        <Background Type="CT_RAW" Source="FF434C5E" />
+      </Color>
+      <Color Name="PopupSelectedText">
+        <Background Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="PopupShadow">
+        <Background Type="CT_RAW" Source="72000000" />
+      </Color>
+      <Color Name="PopupSubtleText">
+        <Background Type="CT_RAW" Source="FFCCCCCC" />
+      </Color>
+      <Color Name="PopupText">
+        <Background Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+    </Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
       <Color Name="ActiveBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
