@@ -1787,7 +1787,7 @@
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1799,7 +1799,7 @@
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FFB8C4D6" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1815,11 +1815,11 @@
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FFD3E0C9" />
       </Color>
       <Color Name="CppMemberFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FFD3E0C9" />
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1827,7 +1827,7 @@
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FFD3E0C9" />
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1855,7 +1855,7 @@
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="CppLabelSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1883,7 +1883,7 @@
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBF616A" />
+        <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="CppSuggestedActionFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2700,6 +2700,10 @@
       <Color Name="Line Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
+      </Color>
+      <Color Name="Selected Line Number">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Track reverted changes">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -3888,6 +3892,10 @@
       <Color Name="ReSharper C++ Doxygen Command">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="StickyScroll Background">
+        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Foreground Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="md_header">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -10956,13 +10964,13 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="TextOnAccentFillDisabled">
-        <Background Type="CT_RAW" Source="80000000" />
+        <Background Type="CT_RAW" Source="80ECEFF4" />
       </Color>
       <Color Name="TextOnAccentFillPrimary">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="TextOnAccentFillSecondary">
-        <Background Type="CT_RAW" Source="80000000" />
+        <Background Type="CT_RAW" Source="80ECEFF4" />
       </Color>
       <Color Name="TextOnAccentFillSelectedText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -11006,19 +11014,19 @@
         <Background Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="StatusBarBackgroundFillBuilding">
-        <Background Type="CT_RAW" Source="FF3F3682" />
+        <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="StatusBarBackgroundFillDebugging">
-        <Background Type="CT_RAW" Source="FF7A2101" />
+        <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="StatusBarBackgroundFillRest">
-        <Background Type="CT_RAW" Source="4D000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="StatusBarBackgroundFillSolutionLoading">
-        <Background Type="CT_RAW" Source="FF003B6A" />
+        <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="StatusBarControlFillSecondary">
-        <Background Type="CT_RAW" Source="20FFFFFF" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="StatusBarTextFillBuilding">
         <Background Type="CT_RAW" Source="FFECEFF4" />
