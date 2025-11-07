@@ -2225,6 +2225,10 @@
         <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
+      <Color Name="MarkerFormatDefinition/CppHighlightedDefinition">
+        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
       <Color Name="CodeReview.SelectedComment.AnchorPoint">
         <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FF646E81" />
