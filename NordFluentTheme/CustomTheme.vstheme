@@ -1885,6 +1885,10 @@
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
+      <Color Name="CppAttributesSyntacticTokenFormat">
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF81A1C1" />
+      </Color>
       <Color Name="CppSuggestedActionFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
