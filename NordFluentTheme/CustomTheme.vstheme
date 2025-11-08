@@ -10929,7 +10929,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -10938,7 +10938,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="SubtleFillTertiary">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="SubtleFillTransparent">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -11042,10 +11042,10 @@
         <Background Type="CT_RAW" Source="66757575" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="A03B4252" />
       </Color>
       <Color Name="EnvironmentLayeredBorder">
-        <Background Type="CT_RAW" Source="803B4252" />
+        <Background Type="CT_RAW" Source="203B4252" />
       </Color>
       <Color Name="EnvironmentLogo">
         <Background Type="CT_RAW" Source="FF5E81AC" />
