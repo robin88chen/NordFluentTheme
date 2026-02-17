@@ -1903,7 +1903,7 @@
       </Color>
       <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
+        <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="Python Interactive - Black">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -10992,7 +10992,7 @@
         <Background Type="CT_RAW" Source="FF393D1B" />
       </Color>
       <Color Name="TextFillDisabled">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="TextFillPrimary">
         <Background Type="CT_RAW" Source="FFECEFF4" />
