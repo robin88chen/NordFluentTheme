@@ -10745,7 +10745,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="AccentFillDefault">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="AccentFillDisabled">
         <Background Type="CT_RAW" Source="FF2E3440" />
